@@ -16,6 +16,8 @@
 
 8. https://web.stanford.edu/~vinayc/logicprogramming/html/inductive_logic_programming.html
 
+9. https://securitytoday.com/articles/2022/02/07/balancing-fraud-prevention-and-customer-experience.aspx
+
 # Datasets
 
 a. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud

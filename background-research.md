@@ -15,8 +15,10 @@ When financial institutions implement fraud detection algorithms in their produc
 If a fraudulant transaction is not identified as fraudulant, then the customer loses the money used to make that transaction.
 The financial institution must go through processes to identify whether this transaction is in fact fraudulant and then compensate the customer for the transaction, which is money that the financial institution may never recoup.
 The consequences of fraudulant payments can be devastating to customers, who may lose significant amounts of money and then have to jump through many hoops to ever get it back.
+
 If a financial institution blocks a non-fraudulant transaction, then this is a poor user experience for the customer because the customer's payment will be declined, which may cause the customer to choose to switch to a different financial institution or otherwise use their account less frequently.
 Additionally, fraud detection models and operations are subject to high levels of scrutiny by regulatory bodies.
+Further discussion on balancing customer experience and fraud risk in source (9).
 
 # Statistical Methods
 
