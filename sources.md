@@ -22,6 +22,10 @@ a. https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 b. https://www.kaggle.com/datasets/ealaxi/paysim1
 
+c. https://www.kaggle.com/datasets/ealaxi/paysim1
 
+d. https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud
+
+e. https://www.kaggle.com/competitions/ieee-fraud-detection/data?select=test_transaction.csv
 
 
